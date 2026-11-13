@@ -1,0 +1,6 @@
+{
+  "name": "AIM Core OS",
+  "description": "Autonomous Indoor Mapping robot operating system for AIM-Bot featuring animated robot status, live sensors, CameraX preview, real-time ESP32 communication, and diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
